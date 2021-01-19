@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Auth.Application/bin/Debug/netcoreapp3.1
+/.vs/Auth/v16
+/src/Auth.Application/obj
+/src/Auth.Common/bin/Debug/netcoreapp3.1
+/src/Auth.Common/obj
+/src/Auth.Domain/bin/Debug/netcoreapp3.1
+/src/Auth.Domain/obj
+/src/Auth.Infrastructure/bin/Debug/netcoreapp3.1
+/src/Auth.Infrastructure/obj
+/src/Auth.WebApi/bin/Debug/netcoreapp3.1
+/src/Auth.WebApi/obj
